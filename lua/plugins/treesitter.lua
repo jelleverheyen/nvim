@@ -28,7 +28,10 @@ return {
         "query",
         "vim",
         "vimdoc",
+        "hyprlang",
       },
+      config = function()
+      end
     },
   },
 }

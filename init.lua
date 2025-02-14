@@ -47,5 +47,3 @@ require("lazy").setup({
     { import = "themes" },
   },
 })
-
-vim.cmd.colorscheme("catppuccin")
